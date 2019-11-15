@@ -1,9 +1,9 @@
-# reveal-skel
-## A Template for Presentations in [Reveal.js](https://github.com/hakimel/reveal.js/)
+# Fire Upon the Earth
+## Luke 12:49-59
 
-[![Build status](https://travis-ci.org/sermons/reveal-skel.svg)](https://travis-ci.org/sermons/reveal-skel)
-[![Node deps](https://david-dm.org/sermons/reveal-skel.svg)](https://david-dm.org/sermons/reveal-skel)
-[![Node devDeps](https://david-dm.org/sermons/reveal-skel/dev-status.svg)](https://david-dm.org/sermons/reveal-skel?type=dev)
+[![Build status](https://travis-ci.org/sermons/fire.svg)](https://travis-ci.org/sermons/fire)
+[![Node deps](https://david-dm.org/sermons/fire.svg)](https://david-dm.org/sermons/fire)
+[![Node devDeps](https://david-dm.org/sermons/fire/dev-status.svg)](https://david-dm.org/sermons/fire?type=dev)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
