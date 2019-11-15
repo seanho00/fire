@@ -88,3 +88,5 @@ until you have paid the very last penny.
 
 [Luke 12:49-59 (ESV) (p.6/6)](# "ref")
 
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
