@@ -8,7 +8,7 @@
 
 ******
 [49](# "ref")
-I came to cast fire on the earth,<br>
+"I came to cast fire on the earth,<br>
 and would that it were already kindled! 
 
 [50](# "ref")
@@ -55,8 +55,9 @@ you say at once, ‘A shower is coming.’<br>
 And so it happens.
 
 [55](# "ref")
-And when you see the south wind blowing, you say,<br>
-‘There will be scorching heat,’ and it happens.
+And when you see the south wind blowing, <br>
+you say, ‘There will be scorching heat,’ <br>
+and it happens.
 
 [Luke 12:49-59 (ESV) (p.4/6)](# "ref")
 
@@ -64,8 +65,9 @@ And when you see the south wind blowing, you say,<br>
 
 [56](# "ref")
 You hypocrites! You know how to interpret<br>
-the appearance of earth and sky, but why do you<br>
-not know how to interpret the present time?
+the appearance of earth and sky, <br>
+but why do you not know <br>
+how to interpret the present time?
 
 [57](# "ref")
 “And why do you not judge<br>
@@ -76,7 +78,8 @@ for yourselves what is right?
 ******
 
 [58](# "ref")
-As you go with your accuser before the magistrate,<br>
+As you go with your accuser <br>
+before the magistrate,<br>
 make an effort to settle with him on the way,<br>
 lest he drag you to the judge,<br>
 and the judge hand you over to the officer,<br>
@@ -84,7 +87,7 @@ and the officer put you in prison.
 
 [59](# "ref")
 I tell you, you will never get out<br>
-until you have paid the very last penny.
+until you have paid the very last penny."
 
 [Luke 12:49-59 (ESV) (p.6/6)](# "ref")
 
