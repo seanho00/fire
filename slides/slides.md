@@ -110,6 +110,51 @@ until you have paid the very last penny."
 
 >>>
 
+---
+Who then is the **faithful** and **wise** manager,<br>
+whom his master will set over his **household**,<br>
+to give them their **portion** of food<br>
+at the proper **time**?
+
+[43](# "ref")
+**Blessed** is that servant<br>
+whom his master will find<br>
+so doing when he **comes**.
+
+[Luke 12:42-43 (ESV)](# "ref")
+
+>>>
++ v13-34: mostly negative, wrong priorities
++ v35-44: affirmative command
+
+---
+**Peter** said,<br>
+“Lord, are you telling this parable<br>
+for **us** or for **all**?”
+
+[Luke 12:41 (ESV)](# "ref")
+
+>>>
++ the initiates, in-group, church-goers
+
+---
+That servant who **knew** his master's will<br>
+but did not get **ready**<br>
+or **act** according to his will,<br>
+will receive a **severe** beating.
+
+[48](# "ref")
+But the one who did **not know**,<br>
+and did what deserved a beating,<br>
+will receive a **light** beating. 
+
+[Luke 12:47-48 (ESV)](# "ref")
+
+>>>
++ **both** get a beating!
+  + **Master's** will not obeyed
++ **diff** churched vs unchurched?
+  + we ought to **know** better
 
 ---
 "I came to **cast fire** on the earth,<br>
