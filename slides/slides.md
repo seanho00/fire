@@ -256,5 +256,31 @@ until you have paid the very last **penny**."
 
 [Luke 12:58-59 (ESV)](# "ref")
 
+>>>
++ accuser: opposed in righteousness
+  + has a claim against you according to what is right / lawful
+  + v59 impl. you owe money
++ settle: be reconciled, paid up to be even
+  + make effort: do work
++ Mt5:25-26 interpers. rel.: hatred vs reconciliation
++ magistrate: ruler, authority
+  + judge: decides fault, convicts, sentencing
+  + officer: proctor, bailiff, handles repayment of debt
++ last penny: held to strictest std of law
+
+---
+If you, O Lord, should **mark iniquities**,<br>
+O Lord, who could **stand**?
+
+[4](# "ref")
+But with you there is **forgiveness**,<br>
+that you may be **feared**.
+
+[Psalm 130:3-4 (ESV)](# "ref")
+
+>>>
++ severity of law vs
++ kindness of grace
+
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
