@@ -6,6 +6,17 @@
 <!-- .slide: data-background="white" -->
 # Opening **Question**
 
+---
+<!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> class="outline" -->
+## Luke 12: Priorities of <br> the Kingdom of God
++ Not Man's **Affirmation** [(v1-12)](# "ref")
++ Not Building **Wealth** [(v13-21)](# "ref")
++ Not Health/**Security** [(v22-34)](# "ref")
++ Faithful **Stewardship** [(v35-48)](# "ref")
++ **Fire** Upon the Earth [(v49-59)](# "ref")
+
+[Mark Basarab](https://unsplash.com/photos/1k5Qq4YQM0g "caption")
+
 ******
 [49](# "ref")
 "I came to cast fire on the earth,<br>
@@ -93,12 +104,26 @@ until you have paid the very last penny."
 
 ---
 ## outline
+1. Division [(v49-53)](# "ref")
+1. Hypocrisy [(v54-56)](# "ref")
+1. Pride [(v57-59)](# "ref")
+
+>>>
+
 
 ---
 "I came to **cast fire** on the earth,<br>
 and would that it were already **kindled**! 
 
 [Luke 12:49 (ESV)](# "ref")
+
+>>>
++ fire: **consumes**
++ Mal3:2 Messenger coming like refiner's fire, fuller's soap
+  + v18 distinction righteous vs wicked
++ Lk24:32 Emmaus hearts burning
++ Mt3:11 baptize w/HS+fire
+  + v12 chaff unquenchable fire
 
 ---
 I have a **baptism** to be baptized with,<br>
@@ -120,7 +145,7 @@ there will be five **divided**,<br>
 [Luke 12:51-52 (ESV)](# "ref")
 
 ---
-They will be **divide**d,<br>
+They will be **divided**,<br>
 **father** against son and **son** against father,
 
 **mother** against daughter <br>
@@ -130,6 +155,9 @@ and **daughter** against mother,
 and **daughter-in-law** against mother-in-law.”
 
 [Luke 12:53 (ESV)](# "ref")
+
+---
+## outline
 
 ---
 He also said to the crowds,<br>
@@ -144,6 +172,9 @@ and it happens.
 
 [Luke 12:54-55 (ESV)](# "ref")
 
+>>>
++ **predictions**: educated guess about future
+
 ---
 You **hypocrites**!
 
@@ -153,6 +184,12 @@ but why do you not know <br>
 how to interpret the **present time**?
 
 [Luke 12:56 (ESV)](# "ref")
+
+>>>
++ **test**, approve, assess, examine closely
+
+---
+## outline
 
 ---
 “And why do you not **judge**<br>
