@@ -1,7 +1,7 @@
-<!-- .slide: <%= bg("unsplash-Of-NXuECJbE-portugal_forest_fire.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-7A_yfNw528g-fire.jpg") %> id="title" -->
 # Fire Upon <br> the Earth
 ## Luke 12:49-59
-[Estreito da Calheta, Portugal. Michael Held](https://unsplash.com/photos/Of-NXuECJbE "caption")
+[Francesco Ungaro](https://unsplash.com/photos/7A_yfNw528g "caption")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -140,7 +140,7 @@ so doing when he **comes**.
 + dramatic change of **priorities**:
 
 ---
-<!-- .slide: <%= bg("unsplash-Of-NXuECJbE-portugal_forest_fire.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("unsplash-7A_yfNw528g-fire.jpg") %> id="outline" class="outline" -->
 ## Fire Upon the Earth [(Lk12)](# "ref")
 1. Kindle the **Flame** [(v49-50)](# "ref")
 1. Love God Over **Family** [(v51-53)](# "ref")
@@ -300,7 +300,7 @@ for our God is a **consuming fire**.
 + e.g., lots of light to **clean house**
 
 ---
-<!-- .slide: <%= bg("unsplash-Of-NXuECJbE-portugal_forest_fire.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-7A_yfNw528g-fire.jpg") %> class="outline" -->
 ## Fire Upon the Earth [(Lk12)](# "ref")
 1. Kindle the Flame [(v49-50)](# "ref")
 1. **Love God Over Family** [(v51-53)](# "ref")
@@ -496,7 +496,7 @@ and one who does **not** serve him.
 # Am I **willing** to let God's fire **divide** my family?
 
 ---
-<!-- .slide: <%= bg("unsplash-Of-NXuECJbE-portugal_forest_fire.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-7A_yfNw528g-fire.jpg") %> class="outline" -->
 ## Fire Upon the Earth [(Lk12)](# "ref")
 1. Kindle the Flame [(v49-50)](# "ref")
 1. Love God Over Family [(v51-53)](# "ref")
@@ -622,7 +622,7 @@ at once when he **comes** and knocks.
 + refocus my **priorities**
 
 ---
-<!-- .slide: <%= bg("unsplash-Of-NXuECJbE-portugal_forest_fire.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-7A_yfNw528g-fire.jpg") %> class="outline" -->
 ## Fire Upon the Earth [(Lk12)](# "ref")
 1. Kindle the Flame [(v49-50)](# "ref")
 1. Love God Over Family [(v51-53)](# "ref")
@@ -762,7 +762,7 @@ Mercy **triumphs** over judgment!
 # Do I care more about **winning** than showing **mercy**?
 
 ---
-<!-- .slide: <%= bg("unsplash-Of-NXuECJbE-portugal_forest_fire.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-7A_yfNw528g-fire.jpg") %> -->
 I baptize you with **water** for repentance,<br>
 but he ... will baptize you <br>
 with the **Holy Spirit** and **fire**.
@@ -778,4 +778,4 @@ with **unquenchable fire**.
 [Matthew 3:11-12 (ESV)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-Of-NXuECJbE-portugal_forest_fire.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-7A_yfNw528g-fire.jpg") %> class="empty" -->
