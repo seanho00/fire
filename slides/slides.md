@@ -662,16 +662,9 @@ for yourselves what is **right**?
 <!-- .slide: <%= bg("unsplash-9z9fxr_7Z-k-gavel.jpg") %> -->
 As you go with your **accuser** <br>
 before the **magistrate**,<br>
-make an effort to **settle** with him on the way,<br>
-lest he drag you to the **judge**,<br>
-and the judge hand you over to the **officer**,<br>
-and the officer put you in **prison**.
+make an effort to **settle** with him on the way,
 
-[59](# "ref")
-I tell you, you will never get out<br>
-until you have paid the very last **penny**."
-
-[Luke 12:58-59 (ESV)](# "ref")
+[Luke 12:58 (ESV)](# "ref")
 [Wesley Tingey](https://unsplash.com/photos/9z9fxr_7Z-k "caption")
 
 >>>
@@ -688,13 +681,30 @@ until you have paid the very last **penny**."
   + **proving** opponent wrong
   + "I **win**, you **lose**"
 + but I do not **control** the courts:
+
+---
+<!-- .slide: <%= bg("unsplash-9z9fxr_7Z-k-gavel.jpg") %> -->
+lest he drag you to the **judge**,<br>
+and the judge hand you over to the **officer**,<br>
+and the officer put you in **prison**.
+
+[59](# "ref")
+I tell you, you will never get out<br>
+until you have paid the very last **penny**."
+
+[Luke 12:58-59 (ESV)](# "ref")
+
+>>>
 + magistrate: ruler, **authority**
-  + judge: decides **fault**, convicts, sentencing
-  + officer: proctor, bailiff
-    + **enforces** repayment of debt
++ judge: decides **fault**, convicts, sentencing
++ officer: proctor, bailiff
+  + **enforces** repayment of debt
 + I wanted to **punish** opponent
-  + to **fullest** extent of law, but
+  + to **fullest** extent of law
++ but ends up **I** must pay
 + last penny: held to **strictest** std of law
++ how much greater **debt** do we **owe**
+  + to the **holy** Author of life
 + Psalm 130:
 
 ---
