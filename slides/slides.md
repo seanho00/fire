@@ -1,6 +1,7 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-Of-NXuECJbE-portugal_forest_fire.jpg") %> id="title" -->
 # Fire Upon the Earth
 ## Luke 12:49-59
+[Estreito da Calheta, Portugal. Michael Held](https://unsplash.com/photos/Of-NXuECJbE "caption")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -134,7 +135,8 @@ so doing when he **comes**.
 + dramatic change of **priorities**:
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-Of-NXuECJbE-portugal_forest_fire.jpg") %> id="outline" class="outline" -->
+## Fire Upon the Earth [(Lk12)](# "ref")
 1. Kindle the **Flame** [(v49-50)](# "ref")
 1. Love God Over **Family** [(v51-53)](# "ref")
 1. **Plan** for Christ's Return [(v54-56)](# "ref")
@@ -268,7 +270,12 @@ for our God is a **consuming fire**.
 + e.g., lots of light to **clean house**
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-Of-NXuECJbE-portugal_forest_fire.jpg") %> class="outline" -->
+## Fire Upon the Earth [(Lk12)](# "ref")
+1. Kindle the Flame [(v49-50)](# "ref")
+1. **Love God Over Family** [(v51-53)](# "ref")
+1. Plan for Christ's Return [(v54-56)](# "ref")
+1. Pursue Mercy, Not Vengeance [(v57-59)](# "ref")
 
 >>>
 + remainder is 3 **practical** applications
@@ -441,7 +448,12 @@ and one who does **not** serve him.
 # Am I **willing** to let God's fire **divide** my family?
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-Of-NXuECJbE-portugal_forest_fire.jpg") %> class="outline" -->
+## Fire Upon the Earth [(Lk12)](# "ref")
+1. Kindle the Flame [(v49-50)](# "ref")
+1. Love God Over Family [(v51-53)](# "ref")
+1. **Plan for Christ's Return** [(v54-56)](# "ref")
+1. Pursue Mercy, Not Vengeance [(v57-59)](# "ref")
 
 >>>
 + God's holy fire **calls** us
@@ -554,7 +566,12 @@ at once when he **comes** and knocks.
 + refocus my **priorities**
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-Of-NXuECJbE-portugal_forest_fire.jpg") %> class="outline" -->
+## Fire Upon the Earth [(Lk12)](# "ref")
+1. Kindle the Flame [(v49-50)](# "ref")
+1. Love God Over Family [(v51-53)](# "ref")
+1. Plan for Christ's Return [(v54-56)](# "ref")
+1. **Pursue Mercy, Not Vengeance** [(v57-59)](# "ref")
 
 >>>
 + God's consuming **fire** is coming:
@@ -671,4 +688,4 @@ Mercy **triumphs** over judgment!
 # Do I care more about **winning** than showing **mercy**?
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-Of-NXuECJbE-portugal_forest_fire.jpg") %> class="empty" -->
