@@ -4,7 +4,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Opening **Question**
+# What does a heart on **fire** for God look like?
 
 ******
 [49](# "ref")
@@ -149,8 +149,12 @@ and would that it were already **kindled**!
 [Luke 12:49 (ESV)](# "ref")
 
 >>>
-+ fire: **consumes**
-  + and **reveals** what is pure
++ **would that**: one of few verses where
+  + **Christ** directly talks about
+  + His own **desire**, want
++ what is His heart **eager** for?
++ fire: all **consuming**
+  + **reveals** what is pure, lasting
 + can be **positive**:
   + e.g., road to **Emmaus** after resurrection:
 
