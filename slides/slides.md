@@ -164,6 +164,7 @@ and would that it were already **kindled**!
 
 >>>
 + fire: **consumes**
++ Rv8:7 1st trumpet: judgment
 + Mal3:2 Messenger coming like refiner's fire, fuller's soap
   + v18 distinction righteous vs wicked
 + Lk24:32 Emmaus hearts burning
