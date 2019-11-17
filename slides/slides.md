@@ -104,9 +104,9 @@ until you have paid the very last penny."
 
 ---
 ## outline
-1. Division [(v49-53)](# "ref")
-1. Hypocrisy [(v54-56)](# "ref")
-1. Pride [(v57-59)](# "ref")
+1. Love God Over Family [(v49-53)](# "ref")
+1. Plan for Christ's Return [(v54-56)](# "ref")
+1. Pursue Mercy, Not Vengeance [(v57-59)](# "ref")
 
 >>>
 
