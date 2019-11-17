@@ -172,10 +172,16 @@ and would that it were already **kindled**!
 
 ---
 I have a **baptism** to be baptized with,<br>
-and how great is my distress<br>
-until it is **accomplished**!
+and how great is my **distress**<br>
+until it is accomplished!
 
 [Luke 12:50 (ESV)](# "ref")
+
+>>>
++ baptism: death + resurrection
+  + discipleship / obedience
++ distress: constrained, compelled, held together
+  + Ph1:23-24
 
 ---
 Do you think that I have come<br>
@@ -219,6 +225,10 @@ and it happens.
 
 >>>
 + **predictions**: educated guess about future
++ but not **far-fetched** guesses
+  + >10dy weather forecast not reliable
++ just observing how the **wind** blows
+  + today or tomorrow
 
 ---
 You **hypocrites**!
@@ -257,12 +267,16 @@ until you have paid the very last **penny**."
 [Luke 12:58-59 (ESV)](# "ref")
 
 >>>
-+ accuser: opposed in righteousness
++ Mt5:25-26 interpers. rel.: hatred vs reconciliation
+  + prereq for God's forgiveness
+  + here: analogy/parable cf v54-56
+  + you know this from daily practical wisdom
+  + e.g. Sun Tzu
++ accuser: opponent in justice
   + has a claim against you according to what is right / lawful
   + v59 impl. you owe money
 + settle: be reconciled, paid up to be even
   + make effort: do work
-+ Mt5:25-26 interpers. rel.: hatred vs reconciliation
 + magistrate: ruler, authority
   + judge: decides fault, convicts, sentencing
   + officer: proctor, bailiff, handles repayment of debt
