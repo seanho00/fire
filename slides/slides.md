@@ -537,14 +537,47 @@ at once when he **comes** and knocks.
 <!-- .slide: data-background="white" -->
 ## Do I make my **plans** remembering the **imminence** of Christ's **return**?
 
+>>>
++ plan for a **degree program**
+  + choose a **career** track
++ plan for buying a **house**
++ plan for **marriage**, children
++ plan for kids to attend certain **schools**
++ not that our plans are **bad**
+  + follow dir of **wind**
++ apply same **diligence** to
+  + manifest **evidence** of Christ's coming soon
++ refocus my **priorities**
+
 ---
 ## outline
+
+>>>
++ God's consuming **fire** is coming:
++ for my **family**: to reveal hearts
++ for my **future** plans:
+  + am I **planning** wisely
++ for my own **pride**: to teach me **mercy**
 
 ---
 “And why do you not **judge**<br>
 for yourselves what is **right**?
 
 [Luke 12:56 (ESV)](# "ref")
+
+>>>
++ why, **even** amongst yourselves
+  + you do not **judge** that which is **right**?
++ two levels of **application**:
++ **horiz** / interpers
+  + cf Mt5:25-26: hatred vs **reconciliation**
+  + **prereq** for God's forgiveness
++ **vert** / against God:
+  + believing we have a just **claim**
++ if you don't get this **right** even in
+  + secular **business** relationships
++ how will you possibly **stand**
+  + when **God** brings a claim against you?
 
 ---
 As you go with your **accuser** <br>
@@ -561,20 +594,27 @@ until you have paid the very last **penny**."
 [Luke 12:58-59 (ESV)](# "ref")
 
 >>>
-+ Mt5:25-26 interpers. rel.: hatred vs reconciliation
-  + prereq for God's forgiveness
-  + here: analogy/parable cf v54-56
-  + you know this from daily practical wisdom
-  + e.g. Sun Tzu
-+ accuser: opponent in justice
-  + has a claim against you according to what is right / lawful
-  + v59 impl. you owe money
-+ settle: be reconciled, paid up to be even
-  + make effort: do work
-+ magistrate: ruler, authority
-  + judge: decides fault, convicts, sentencing
-  + officer: proctor, bailiff, handles repayment of debt
-+ last penny: held to strictest std of law
++ accuser: **opponent** in justice
+  + has a **claim** against me
+  + according to **lawful** / right
+  + v59 impl. I **owe** money
++ I think I can **win** in court
+  + so **unwilling** to settle
++ settle: be reconciled, paid up to be **even**
+  + make effort: do some **work**
++ no longer really about **justice**
+  + but **vengeance**
+  + **proving** opponent wrong
+  + "I **win**, you **lose**"
++ but I do not **control** the courts:
++ magistrate: ruler, **authority**
+  + judge: decides **fault**, convicts, sentencing
+  + officer: proctor, bailiff
+    + **enforces** repayment of debt
++ I wanted to **punish** opponent
+  + to **fullest** extent of law, but
++ last penny: held to **strictest** std of law
++ Psalm 130:
 
 ---
 If you, O Lord, should **mark iniquities**,<br>
@@ -587,8 +627,44 @@ that you may be **feared**.
 [Psalm 130:3-4 (ESV)](# "ref")
 
 >>>
-+ severity of law vs
-+ kindness of grace
++ **severity** of law vs
++ **kindness** of grace
++ e.g., exercising legal **rights** crossing border
+  + "under **exemption**, I have a **right**!"
+  + "right not to have car **searched**!" (no you don't)
+  + e.g., feeding kid **oranges** in line
++ God has every **right** to remember our sins
++ it is His **forgiveness** that is
+  + even **more** fearsome
++ we need to show the same **mercy** to others:
+
+---
+So **speak** and so **act** as those who are<br>
+to be **judged** under the **law of liberty**.
+
+[13](# "ref")
+For judgment is **without mercy**<br>
+to one who has **shown no mercy**.
+
+Mercy **triumphs** over judgment!
+
+[James 2:12-13 (ESV)](# "ref")
+
+>>>
++ in our **pride** we believe
+  + our legal **standing**
+  + is **firmer** than it really is
++ the **law of liberty** is that
+  + **no one** is righteous
+  + apart from Christ's **gift** of life
++ let our **words** and **actions** reflect
+  + we are the **forgiven**
++ **mercy** is more worthy to pursue
+  + than **judgment**
+
+---
+<!-- .slide: data-background="white" -->
+# Do I care more about **winning** than showing **mercy**?
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
