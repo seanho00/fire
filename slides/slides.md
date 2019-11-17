@@ -439,6 +439,14 @@ and one who does **not** serve him.
 ---
 ## outline
 
+>>>
++ God's holy fire **calls** us
+  + to a drastic change of **priorities**:
++ to show to our **loved ones**
+  + what **righteousness** is
+  + what **serving God** means
++ to change how we plan for the **future**:
+
 ---
 He also said to the crowds,<br>
 “When you see a **cloud** rising in the **west**,<br>
@@ -453,11 +461,13 @@ and it happens.
 [Luke 12:54-55 (ESV)](# "ref")
 
 >>>
-+ **predictions**: educated guess about future
++ **predictions**: reasonable guess about near future
 + but not **far-fetched** guesses
   + >10dy weather forecast not reliable
 + just observing how the **wind** blows
   + today or tomorrow
++ make **plans**: bring umbrella, postpone picnic
++ it really **works**, nothing wrong with it
 
 ---
 You **hypocrites**!
@@ -470,7 +480,62 @@ how to interpret the **present time**?
 [Luke 12:56 (ESV)](# "ref")
 
 >>>
-+ **test**, approve, assess, examine closely
++ hypocrite: apparently **good** facade
+  + hiding fundamentally **flawed** / corrupt substance
++ interpret: **test**, approve, assess, examine closely
++ earth/sky: envir, politics, career planning
+  + encourage kids to study **useful** field
+  + predict will have a steady **job**
++ yet when it comes to Christ's **return**:
+  + "oh who knows when that'll happen!"
+  + "can't predict future, so don't think about it"
++ **double-standard**: can't predict future
+  + but we can see the **signs**
++ e.g., Mt24 increasing **unrest** + wickedness
+  + signs telling us the **judgment** is near:
+
+---
+From the **fig tree** learn its lesson:<br>
+as soon as its branch becomes **tender**<br>
+and puts out its **leaves**,<br>
+you know that **summer** is near.
+
+[33](# "ref")
+So also, when you see **all these** things,<br>
+you know that he is **near**, at the **very gates**.
+
+[Matthew 24:32-33 (ESV)](# "ref")
+
+>>>
++ can't predict exactly when **seasons** turn
+  + but **trees** give us **warning signs**
++ don't **avoid** imminence of Christ's return
+  + **plan** your life around it
+
+---
+Stay dressed for **action**<br>
+and keep your **lamps** burning,
+
+[36](# "ref")
+and be like men who are **waiting**<br>
+for their master to come home<br>
+from the wedding **feast**,
+
+so that they may **open** the door to him<br>
+at once when he **comes** and knocks.
+
+[Luke 12:35-36 (ESV)](# "ref")
+
+>>>
++ wedding feasts go very **late**
++ **waiting** is not easy
++ **persevere** in **trusting** God's promises
++ **provide** for others in God's household
++ the **Son of Man** is coming at an hour we do not **expect**
+
+---
+<!-- .slide: data-background="white" -->
+## Do I make my **plans** remembering the **imminence** of Christ's **return**?
 
 ---
 ## outline
