@@ -7,6 +7,10 @@
 <!-- .slide: data-background="white" -->
 # What does a heart on **fire** for God look like?
 
+>>>
++ **fire** common image in Bible
++ **complex** meaning
+
 ******
 [49](# "ref")
 "I came to cast fire on the earth,<br>
@@ -144,6 +148,14 @@ so doing when he **comes**.
 1. Pursue **Mercy**, Not Vengeance <br>[(v57-59)](# "ref")
 
 >>>
++ purpose + effect of **fire** of God
++ 3 applications:
++ reveals true hearts of our **loved ones**
++ reveals our **hypocrisy** in making plans
+  + neglecting the imminence of judgment
++ burns away our **legalism** + pride
+  + leaving only **grace** received
+  + and grace we must **give** to others
 
 ---
 <!-- .slide: <%= bg("unsplash-ACAK6F9mzgs-log_fire.jpg") %> -->
