@@ -108,6 +108,7 @@ until you have paid the very last penny."
 + v35-44: affirmative command
 
 ---
+<!-- .slide: <%= bg("Giovane-Washing_of_the_Feet.jpg") %> -->
 Who then is the **faithful** and **wise** manager,<br>
 whom his master will set over his **household**,<br>
 to give them their **portion** of food<br>
@@ -145,10 +146,12 @@ so doing when he **comes**.
 >>>
 
 ---
+<!-- .slide: <%= bg("unsplash-ACAK6F9mzgs-log_fire.jpg") %> -->
 "I came to **cast fire** on the earth,<br>
 and would that it were already **kindled**! 
 
 [Luke 12:49 (ESV)](# "ref")
+[Janko Ferlič](https://unsplash.com/photos/ACAK6F9mzgs "caption")
 
 >>>
 + **would that**: one of few verses where
@@ -161,16 +164,19 @@ and would that it were already **kindled**!
   + e.g., road to **Emmaus** after resurrection:
 
 ---
+<!-- .slide: <%= bg("Fuhrich-Der_Gang_nach_Emmaus.jpg") %> -->
 And beginning with Moses and all the Prophets,<br>
 he **interpreted** to them in all the **Scriptures**<br>
 the things concerning **himself**.
 
+[32](# "ref")
 They said to each other,<br>
 “Did not our **hearts burn within us**<br>
 while he talked to us on the road,<br>
 while he **opened** to us the Scriptures?”
 
 [Luke 24:27,32 (ESV)](# "ref")
+[Joseph von Führich, "Der Gang nach Emmaus", 1837](https://commons.wikimedia.org/wiki/File:Joseph_von_F%C3%BChrich_001.jpg "caption")
 
 >>>
 + all-consuming **passion** / eagerness
@@ -181,6 +187,7 @@ while he **opened** to us the Scriptures?”
   + for a **fresh** start, new life
 
 ---
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
 "I came to **cast fire** on the earth,<br>
 and would that it were already **kindled**! 
 
@@ -189,6 +196,7 @@ and how great is my **distress**<br>
 until it is accomplished!
 
 [Luke 12:49-50 (ESV)](# "ref")
+[Hạ Long Bay, Vietnam. Vincent Guth](https://unsplash.com/photos/3sR_0NhWMEI "caption")
 
 >>>
 + in order for the fire to be **kindled**
@@ -199,6 +207,7 @@ until it is accomplished!
   + Paul in Phil:
 
 ---
+<!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
 I am **hard pressed** between the two.
 
 My desire is to **depart** and be with Christ,<br>
@@ -208,6 +217,9 @@ for that is far **better**.
 But to **remain** in the flesh<br>
 is more necessary on **your account**.
 
+[Philippians 1:23-24 (ESV)](# "ref")
+[Milada Vigerova](https://unsplash.com/photos/pHR_S0PeOF0 "caption")
+
 >>>
 + hard pressed: **held together**
 + lack of **freedom**, but
@@ -216,6 +228,7 @@ is more necessary on **your account**.
 + Jesus the **Messiah** knew his **purpose**:
 
 ---
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
 I have a **baptism** to be baptized with,<br>
 and how great is my **distress**<br>
 until it is accomplished!
@@ -229,6 +242,7 @@ until it is accomplished!
 + extends same baptism to **us**:
 
 ---
+<!-- .slide: <%= bg("unsplash-qVb-K2mFtDU-wheat.jpg") %> -->
 I baptize you with **water** for repentance,<br>
 but he ... will baptize you <br>
 with the **Holy Spirit** and **fire**.
@@ -241,6 +255,7 @@ and gather his **wheat** into the barn,<br>
 but the **chaff** he will burn with **unquenchable fire**.
 
 [Matthew 3:11-12 (ESV)](# "ref")
+[Seth Schwiet](https://unsplash.com/photos/qVb-K2mFtDU "caption")
 
 >>>
 + fire **cleanses**
@@ -253,12 +268,14 @@ but the **chaff** he will burn with **unquenchable fire**.
   + remembering God's **holiness**:
 
 ---
+<!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
 Let us offer to God acceptable **worship**,<br>
 with **reverence** and awe,<br>
 [29](# "ref")
 for our God is a **consuming fire**.
 
 [Hebrews 12:28-29 (cf Dt4:24) (ESV)](# "ref")
+[Samuel Ferrara](https://unsplash.com/photos/IEHPDNk2-8w "caption")
 
 >>>
 + cannot enter God's **presence**
@@ -289,6 +306,7 @@ for our God is a **consuming fire**.
   + believing the **law** to be on **our** side
 
 ---
+<!-- .slide: <%= bg("unsplash-Wa-gS5R58gA-group_silhouette.jpg") %> -->
 Do you think that I have come<br>
 to give **peace** on earth?<br>
 No, I tell you, but rather **division**.
@@ -299,12 +317,14 @@ there will be five **divided**,<br>
 **three** against **two** and two against three.
 
 [Luke 12:51-52 (ESV)](# "ref")
+[Piha Beach, NZ. Tim Marshall](https://unsplash.com/photos/Wa-gS5R58gA "caption")
 
 >>>
 + what happened to being **peacemakers**?
 + what about **Christmas** angels:
 
 ---
+<!-- .slide: <%= bg("Flinck-Aankondiging_aan_de_herders.jpg") %> -->
 And suddenly there was with the angel<br>
 a multitude of the **heavenly host**<br>
 praising God and saying,
@@ -315,6 +335,7 @@ and on earth **peace** among those<br>
 with whom he is **pleased**!”
 
 [Luke 2:13-14 (ESV)](# "ref")
+[Govert Flinck, "Aankondiging aan de herders", 1639](https://commons.wikimedia.org/wiki/File:Govert_Flinck_-_Aankondiging_aan_de_herders.jpg "caption")
 
 >>>
 + is Jesus not the **Prince of Peace**?
@@ -337,7 +358,7 @@ and a **sword** will pierce through your own **soul** also --<br/>
 so that **thoughts** from many hearts may be **revealed**.
 
 [Luke 2:34-35 (ESV)](# "ref")
-[Rembrandt, "Simeon's Song of Praise", 1631](https://www.mauritshuis.nl/en/explore/the-collection/artworks/simeons-song-of-praise-145/detailgegevens/ "caption")
+[Rembrandt, "Simeons Song of Praise", 1631](https://www.mauritshuis.nl/en/explore/the-collection/artworks/simeons-song-of-praise-145/detailgegevens/ "caption")
 
 >>>
 + what God's **fire** does:
@@ -347,6 +368,7 @@ so that **thoughts** from many hearts may be **revealed**.
 + division happens even within the same **family**:
 
 ---
+<!-- .slide: <%= bg("bryandilts-grandfather.jpg") %> -->
 They will be **divided**,<br>
 **father** against son and **son** against father,
 
@@ -357,6 +379,7 @@ and **daughter** against mother,
 and **daughter-in-law** against mother-in-law.”
 
 [Luke 12:53 (ESV)](# "ref")
+[Bryan Dilts](https://pixabay.com/en/grandfather-grandpa-baby-love-1434575/ "caption")
 
 >>>
 + MIL-DIL rel particularly **complex**!
@@ -371,6 +394,7 @@ and **daughter-in-law** against mother-in-law.”
 + baptism of **HS** + fire:
 
 ---
+<!-- .slide: <%= bg("unsplash-qVb-K2mFtDU-wheat.jpg") %> -->
 His **winnowing fork** is in his hand,<br>
 and he will clear his threshing floor
 
@@ -388,13 +412,15 @@ but the **chaff** he will burn with **unquenchable fire**.
 + **Malachi**: effect of God's **purifying** fire
 
 ---
+<!-- .slide: <%= bg("unsplash-C2a4RGapd8s-light_paint_circle_fire.jpg") %> -->
 But who can **endure** the day of his **coming**,<br>
 and who can **stand** when he **appears**?
 
 For he is like a **refiner's fire**<br>
 and like **fullers' soap**.
 
-[Malachi 3:2 (ESV)](# "ref")
+[Malachi 3:2 (ESV) (p.1/3)](# "ref")
+[Peter John Maridable](https://unsplash.com/photos/C2a4RGapd8s "caption")
 
 >>>
 + fire: to burn away **dross**, impurity
@@ -405,6 +431,7 @@ and like **fullers' soap**.
   + because we **complain** being faithful is useless:
 
 ---
+<!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> -->
 You have said, ‘It is **vain** to serve God.<br>
 What is the **profit** of our keeping his **charge**<br>
 or of walking as in **mourning**<br>
@@ -414,6 +441,9 @@ before the Lord of hosts?
 And now we call the **arrogant blessed**.<br>
 Evildoers not only **prosper**<br>
 but they put God to the **test** and they **escape**.’
+
+[Malachi 3:14-15 (ESV) (p.2/3)](# "ref")
+[Alex Jones](https://unsplash.com/photos/p0W9Q9gei4g "caption")
 
 >>>
 + what's the **point** of being **faithful** to God?
@@ -425,13 +455,15 @@ but they put God to the **test** and they **escape**.’
 + But God's refining **fire** is coming:
 
 ---
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 Then once more you shall see the **distinction**<br>
 between the **righteous** and the **wicked**,
 
 between one who **serves God**<br>
 and one who does **not** serve him.
 
-[Malachi 3:18 (ESV)](# "ref")
+[Malachi 3:18 (ESV) (p.3/3)](# "ref")
+[Dominik QN, Thailand](https://unsplash.com/photos/9gGQvhC4PEY "caption")
 
 >>>
 + the issue is we have **forgotten**
@@ -464,6 +496,7 @@ and one who does **not** serve him.
 + to change how we plan for the **future**:
 
 ---
+<!-- .slide: <%= bg("unsplash-JdY-P44WBpY-stormclouds.jpg") %> -->
 He also said to the crowds,<br>
 “When you see a **cloud** rising in the **west**,<br>
 you say at once, ‘A **shower** is coming.’<br>
@@ -475,6 +508,7 @@ you say, ‘There will be scorching **heat**,’ <br>
 and it happens.
 
 [Luke 12:54-55 (ESV)](# "ref")
+[Lizard Point, UK. Benjamin Sloth Lindgreen](https://unsplash.com/photos/JdY-P44WBpY "caption")
 
 >>>
 + **predictions**: reasonable guess about near future
@@ -486,6 +520,7 @@ and it happens.
 + it really **works**, nothing wrong with it
 
 ---
+<!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> -->
 You **hypocrites**!
 
 You know how to **interpret**<br>
@@ -511,6 +546,7 @@ how to interpret the **present time**?
   + signs telling us the **judgment** is near:
 
 ---
+<!-- .slide: <%= bg("unsplash-HNx4QLRgy2k-rain_plant.jpg") %> -->
 From the **fig tree** learn its lesson:<br>
 as soon as its branch becomes **tender**<br>
 and puts out its **leaves**,<br>
@@ -521,6 +557,7 @@ So also, when you see **all these** things,<br>
 you know that he is **near**, at the **very gates**.
 
 [Matthew 24:32-33 (ESV)](# "ref")
+[Mike Kotsch](https://unsplash.com/photos/HNx4QLRgy2k "caption")
 
 >>>
 + can't predict exactly when **seasons** turn
@@ -529,6 +566,7 @@ you know that he is **near**, at the **very gates**.
   + **plan** your life around it
 
 ---
+<!-- .slide: <%= bg("unsplash-Dc3YQuyr2pU-moon.jpg") %> -->
 Stay dressed for **action**<br>
 and keep your **lamps** burning,
 
@@ -541,6 +579,7 @@ so that they may **open** the door to him<br>
 at once when he **comes** and knocks.
 
 [Luke 12:35-36 (ESV)](# "ref")
+[Nousnou Iwasaki](https://unsplash.com/photos/Dc3YQuyr2pU "caption")
 
 >>>
 + wedding feasts go very **late**
@@ -581,10 +620,12 @@ at once when he **comes** and knocks.
 + for my own **pride**: to teach me **mercy**
 
 ---
+<!-- .slide: <%= bg("unsplash-IBUcu_9vXJc-meeting_hands.jpg") %> -->
 “And why do you not **judge**<br>
 for yourselves what is **right**?
 
 [Luke 12:56 (ESV)](# "ref")
+[Helsinki, Finland. Thomas Drouault](https://unsplash.com/photos/IBUcu_9vXJc "caption")
 
 >>>
 + why, **even** amongst yourselves
@@ -601,6 +642,7 @@ for yourselves what is **right**?
   + when **God** brings a claim against you?
 
 ---
+<!-- .slide: <%= bg("unsplash-9z9fxr_7Z-k-gavel.jpg") %> -->
 As you go with your **accuser** <br>
 before the **magistrate**,<br>
 make an effort to **settle** with him on the way,<br>
@@ -613,6 +655,7 @@ I tell you, you will never get out<br>
 until you have paid the very last **penny**."
 
 [Luke 12:58-59 (ESV)](# "ref")
+[Wesley Tingey](https://unsplash.com/photos/9z9fxr_7Z-k "caption")
 
 >>>
 + accuser: **opponent** in justice
@@ -638,6 +681,7 @@ until you have paid the very last **penny**."
 + Psalm 130:
 
 ---
+<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> -->
 If you, O Lord, should **mark iniquities**,<br>
 O Lord, who could **stand**?
 
@@ -646,6 +690,7 @@ But with you there is **forgiveness**,<br>
 that you may be **feared**.
 
 [Psalm 130:3-4 (ESV)](# "ref")
+[Hirzel, Switzerland. Ricardo Gomez Angel](https://unsplash.com/photos/iTwmi4p4Q_c "caption")
 
 >>>
 + **severity** of law vs
@@ -660,6 +705,7 @@ that you may be **feared**.
 + we need to show the same **mercy** to others:
 
 ---
+<!-- .slide: <%= bg("unsplash-UOwvwZ9Dy6w-hold_hands.jpg") %> -->
 So **speak** and so **act** as those who are<br>
 to be **judged** under the **law of liberty**.
 
@@ -670,6 +716,7 @@ to one who has **shown no mercy**.
 Mercy **triumphs** over judgment!
 
 [James 2:12-13 (ESV)](# "ref")
+[Nancy, France. Rémi Walle](https://unsplash.com/photos/UOwvwZ9Dy6w "caption")
 
 >>>
 + in our **pride** we believe
@@ -686,6 +733,21 @@ Mercy **triumphs** over judgment!
 ---
 <!-- .slide: data-background="white" -->
 # Do I care more about **winning** than showing **mercy**?
+
+---
+<!-- .slide: <%= bg("unsplash-Of-NXuECJbE-portugal_forest_fire.jpg") %> -->
+I baptize you with **water** for repentance,<br>
+but he ... will baptize you <br>
+with the **Holy Spirit** and **fire**.
+
+[12](# "ref")
+His **winnowing fork** is in his hand,<br>
+and he will clear his threshing floor
+
+and gather his **wheat** into the barn,<br>
+but the **chaff** he will burn with **unquenchable fire**.
+
+[Matthew 3:11-12 (ESV)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Of-NXuECJbE-portugal_forest_fire.jpg") %> class="empty" -->
