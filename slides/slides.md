@@ -1,5 +1,5 @@
 <!-- .slide: <%= bg("unsplash-Of-NXuECJbE-portugal_forest_fire.jpg") %> id="title" -->
-# Fire Upon the Earth
+# Fire Upon <br> the Earth
 ## Luke 12:49-59
 [Estreito da Calheta, Portugal. Michael Held](https://unsplash.com/photos/Of-NXuECJbE "caption")
 
@@ -94,7 +94,7 @@ until you have paid the very last penny."
 
 ---
 <!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> class="outline" -->
-## Luke 12: Priorities of <br> the Kingdom of God
+## Luke 12: **Priorities** of <br> the Kingdom of God
 + Not Man's **Affirmation** [(v1-12)](# "ref")
 + Not Building **Wealth** [(v13-21)](# "ref")
 + Not Health/**Security** [(v22-34)](# "ref")
@@ -141,7 +141,7 @@ so doing when he **comes**.
 1. Kindle the **Flame** [(v49-50)](# "ref")
 1. Love God Over **Family** [(v51-53)](# "ref")
 1. **Plan** for Christ's Return [(v54-56)](# "ref")
-1. Pursue **Mercy**, Not Vengeance [(v57-59)](# "ref")
+1. Pursue **Mercy**, Not Vengeance <br>[(v57-59)](# "ref")
 
 >>>
 
@@ -252,7 +252,8 @@ His **winnowing fork** is in his hand,<br>
 and he will clear his threshing floor
 
 and gather his **wheat** into the barn,<br>
-but the **chaff** he will burn with **unquenchable fire**.
+but the **chaff** he will burn <br>
+with **unquenchable fire**.
 
 [Matthew 3:11-12 (ESV)](# "ref")
 [Seth Schwiet](https://unsplash.com/photos/qVb-K2mFtDU "caption")
@@ -354,8 +355,10 @@ Behold, this child is appointed for <br/>
 the **fall** and **rising** of many in Israel, <br/>
 and for a **sign** that is **opposed** --<br/>
 [35](# "ref")
-and a **sword** will pierce through your own **soul** also --<br/>
-so that **thoughts** from many hearts may be **revealed**.
+and a **sword** will pierce through <br>
+your own **soul** also --<br/>
+so that **thoughts** from many hearts <br>
+may be **revealed**.
 
 [Luke 2:34-35 (ESV)](# "ref")
 [Rembrandt, "Simeons Song of Praise", 1631](https://www.mauritshuis.nl/en/explore/the-collection/artworks/simeons-song-of-praise-145/detailgegevens/ "caption")
@@ -376,7 +379,7 @@ They will be **divided**,<br>
 and **daughter** against mother,
 
 **mother-in-law** against her daughter-in-law<br>
-and **daughter-in-law** against mother-in-law.”
+and **daughter-in-law** against mother-in-law.
 
 [Luke 12:53 (ESV)](# "ref")
 [Bryan Dilts](https://pixabay.com/en/grandfather-grandpa-baby-love-1434575/ "caption")
@@ -399,7 +402,8 @@ His **winnowing fork** is in his hand,<br>
 and he will clear his threshing floor
 
 and gather his **wheat** into the barn,<br>
-but the **chaff** he will burn with **unquenchable fire**.
+but the **chaff** he will burn <br>
+with **unquenchable fire**.
 
 [Matthew 3:12 (ESV)](# "ref")
 
@@ -524,7 +528,8 @@ and it happens.
 You **hypocrites**!
 
 You know how to **interpret**<br>
-the appearance of **earth and sky**, <br>
+the appearance of **earth and sky**,
+
 but why do you not know <br>
 how to interpret the **present time**?
 
@@ -590,7 +595,7 @@ at once when he **comes** and knocks.
 
 ---
 <!-- .slide: data-background="white" -->
-## Do I make my **plans** remembering the **imminence** of Christ's **return**?
+## Do I make my **plans** with the imminence of Christ's **return**?
 
 >>>
 + plan for a **degree program**
@@ -610,7 +615,7 @@ at once when he **comes** and knocks.
 1. Kindle the Flame [(v49-50)](# "ref")
 1. Love God Over Family [(v51-53)](# "ref")
 1. Plan for Christ's Return [(v54-56)](# "ref")
-1. **Pursue Mercy, Not Vengeance** [(v57-59)](# "ref")
+1. **Pursue Mercy, Not Vengeance** <br>[(v57-59)](# "ref")
 
 >>>
 + God's consuming **fire** is coming:
