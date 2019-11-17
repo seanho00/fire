@@ -6,17 +6,6 @@
 <!-- .slide: data-background="white" -->
 # Opening **Question**
 
----
-<!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> class="outline" -->
-## Luke 12: Priorities of <br> the Kingdom of God
-+ Not Man's **Affirmation** [(v1-12)](# "ref")
-+ Not Building **Wealth** [(v13-21)](# "ref")
-+ Not Health/**Security** [(v22-34)](# "ref")
-+ Faithful **Stewardship** [(v35-48)](# "ref")
-+ **Fire** Upon the Earth [(v49-59)](# "ref")
-
-[Mark Basarab](https://unsplash.com/photos/1k5Qq4YQM0g "caption")
-
 ******
 [49](# "ref")
 "I came to cast fire on the earth,<br>
@@ -103,12 +92,19 @@ until you have paid the very last penny."
 [Luke 12:49-59 (ESV) (p.6/6)](# "ref")
 
 ---
-## outline
-1. Love God Over Family [(v49-53)](# "ref")
-1. Plan for Christ's Return [(v54-56)](# "ref")
-1. Pursue Mercy, Not Vengeance [(v57-59)](# "ref")
+<!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> class="outline" -->
+## Luke 12: Priorities of <br> the Kingdom of God
++ Not Man's **Affirmation** [(v1-12)](# "ref")
++ Not Building **Wealth** [(v13-21)](# "ref")
++ Not Health/**Security** [(v22-34)](# "ref")
++ Faithful **Stewardship** [(v35-48)](# "ref")
++ **Fire** Upon the Earth [(v49-59)](# "ref")
+
+[Mark Basarab](https://unsplash.com/photos/1k5Qq4YQM0g "caption")
 
 >>>
++ v13-34: mostly negative, wrong priorities
++ v35-44: affirmative command
 
 ---
 Who then is the **faithful** and **wise** manager,<br>
@@ -124,37 +120,27 @@ so doing when he **comes**.
 [Luke 12:42-43 (ESV)](# "ref")
 
 >>>
-+ v13-34: mostly negative, wrong priorities
-+ v35-44: affirmative command
++ **manager** over the household:
+  + himself a **servant**, but
+  + master **entrusts** oversight
++ e.g., skilled **exec assistants**
++ **provide** for the household
+  + out of the master's **abundance**
++ **faithful**: worthy of trust, fiduciary duty
++ **wise**: sober-minded, shrewd
+  + **humble**, willing to learn
+  + not doing **busy-work**
++ the Master will **return** soon!
++ dramatic change of **priorities**:
 
 ---
-**Peter** said,<br>
-“Lord, are you telling this parable<br>
-for **us** or for **all**?”
-
-[Luke 12:41 (ESV)](# "ref")
-
->>>
-+ the initiates, in-group, church-goers
-
----
-That servant who **knew** his master's will<br>
-but did not get **ready**<br>
-or **act** according to his will,<br>
-will receive a **severe** beating.
-
-[48](# "ref")
-But the one who did **not know**,<br>
-and did what deserved a beating,<br>
-will receive a **light** beating. 
-
-[Luke 12:47-48 (ESV)](# "ref")
+## outline
+1. Kindle the **Flame** [(v49-50)](# "ref")
+1. Love God Over **Family** [(v51-53)](# "ref")
+1. **Plan** for Christ's Return [(v54-56)](# "ref")
+1. Pursue **Mercy**, Not Vengeance [(v57-59)](# "ref")
 
 >>>
-+ **both** get a beating!
-  + **Master's** will not obeyed
-+ **diff** churched vs unchurched?
-  + we ought to **know** better
 
 ---
 "I came to **cast fire** on the earth,<br>
@@ -164,12 +150,64 @@ and would that it were already **kindled**!
 
 >>>
 + fire: **consumes**
-+ Rv8:7 1st trumpet: judgment
-+ Mal3:2 Messenger coming like refiner's fire, fuller's soap
-  + v18 distinction righteous vs wicked
-+ Lk24:32 Emmaus hearts burning
-+ Mt3:11 baptize w/HS+fire
-  + v12 chaff unquenchable fire
+  + and **reveals** what is pure
++ can be **positive**:
+  + e.g., road to **Emmaus** after resurrection:
+
+---
+And beginning with Moses and all the Prophets,<br>
+he **interpreted** to them in all the **Scriptures**<br>
+the things concerning **himself**.
+
+They said to each other,<br>
+“Did not our **hearts burn within us**<br>
+while he talked to us on the road,<br>
+while he **opened** to us the Scriptures?”
+
+[Luke 24:27,32 (ESV)](# "ref")
+
+>>>
++ all-consuming **passion** / eagerness
+  + to be **closer** to Christ
+  + and **understand** Bible
++ fire also represents **cleansing**:
+  + **forest** fire clears old brush
+  + for a **fresh** start, new life
+
+---
+"I came to **cast fire** on the earth,<br>
+and would that it were already **kindled**! 
+
+I have a **baptism** to be baptized with,<br>
+and how great is my **distress**<br>
+until it is accomplished!
+
+[Luke 12:49-50 (ESV)](# "ref")
+
+>>>
++ in order for the fire to be **kindled**
+  + Jesus first had to go through
++ **baptism**: death + resurrection
+  + sign of **discipleship** / obedience
++ distress: **constrained**, compelled, held together
+  + Paul in Phil:
+
+---
+I am **hard pressed** between the two.
+
+My desire is to **depart** and be with Christ,<br>
+for that is far **better**.
+
+[24](# "ref")
+But to **remain** in the flesh<br>
+is more necessary on **your account**.
+
+>>>
++ hard pressed: **held together**
++ lack of **freedom**, but
++ **purpose** / focus
+  + keeps us from **falling apart**
++ Jesus the **Messiah** knew his **purpose**:
 
 ---
 I have a **baptism** to be baptized with,<br>
@@ -179,10 +217,65 @@ until it is accomplished!
 [Luke 12:50 (ESV)](# "ref")
 
 >>>
-+ baptism: death + resurrection
-  + discipleship / obedience
-+ distress: constrained, compelled, held together
-  + Ph1:23-24
++ **down** into water + **up** again
++ **dying** for our sins and
+  + **rising** for our new life
++ extends same baptism to **us**:
+
+---
+I baptize you with **water** for repentance,<br>
+but he ... will baptize you <br>
+with the **Holy Spirit** and **fire**.
+
+[12](# "ref")
+His **winnowing fork** is in his hand,<br>
+and he will clear his threshing floor
+
+and gather his **wheat** into the barn,<br>
+but the **chaff** he will burn with **unquenchable fire**.
+
+[Matthew 3:11-12 (ESV)](# "ref")
+
+>>>
++ fire **cleanses**
++ **separates** what is **worthy** from unworthy
++ **baptised** w/HS + fire:
+  + down + up
+  + death + resurrection
+  + cleansing of **old** + filling w/**new**
++ cleansing of old happens by 
+  + remembering God's **holiness**:
+
+---
+Let us offer to God acceptable **worship**,<br>
+with **reverence** and awe,<br>
+[29](# "ref")
+for our God is a **consuming fire**.
+
+[Hebrews 12:28-29 (cf Dt4:24) (ESV)](# "ref")
+
+>>>
++ cannot enter God's **presence**
+  + while having any **sin**
++ yet **Christ** brings us near, as to
+  + a mountain that can be **touched**
++ God's **light** reveals our **sin**
+  + baptism of **HS** burns it away
++ e.g., lots of light to **clean house**
+
+---
+## outline
+
+>>>
++ remainder is 3 **practical** applications
+  + how to **rekindle** the flame
++ allow the **light** of God's fire to reveal
++ our own **idolatry**:
+  + prioritising **family** above God
++ our **hypocrisy**:
+  + willfully **ignoring** imminence of His return
++ our **pride**:
+  + believing the **law** to be on **our** side
 
 ---
 Do you think that I have come<br>
@@ -196,6 +289,52 @@ there will be five **divided**,<br>
 
 [Luke 12:51-52 (ESV)](# "ref")
 
+>>>
++ what happened to being **peacemakers**?
++ what about **Christmas** angels:
+
+---
+And suddenly there was with the angel<br>
+a multitude of the **heavenly host**<br>
+praising God and saying,
+
+[14](# "ref")
+“**Glory** to God in the highest,<br>
+and on earth **peace** among those<br>
+with whom he is **pleased**!”
+
+[Luke 2:13-14 (ESV)](# "ref")
+
+>>>
++ is Jesus not the **Prince of Peace**?
++ note the **qualification**:
+  + those with whom God is **pleased**
++ **none** of us, dead in our **sins**!
++ only through **faith** in Christ
+  + can we **satisfy** God's holiness
+  + and **please** God
++ even as a **baby**, Jesus was destined
+  + to bring **division**:
+
+---
+<!-- .slide: <%= bg("Rembrandt-Simeons_Song_of_Praise.jpg") %> -->
+Behold, this child is appointed for <br/>
+the **fall** and **rising** of many in Israel, <br/>
+and for a **sign** that is **opposed** --<br/>
+[35](# "ref")
+and a **sword** will pierce through your own **soul** also --<br/>
+so that **thoughts** from many hearts may be **revealed**.
+
+[Luke 2:34-35 (ESV)](# "ref")
+[Rembrandt, "Simeon's Song of Praise", 1631](https://www.mauritshuis.nl/en/explore/the-collection/artworks/simeons-song-of-praise-145/detailgegevens/ "caption")
+
+>>>
++ what God's **fire** does:
++ **reveals** the thoughts of our hearts
++ either the fire **draws** us passionately closer
++ or it **destroys** us in His holiness
++ division happens even within the same **family**:
+
 ---
 They will be **divided**,<br>
 **father** against son and **son** against father,
@@ -207,6 +346,95 @@ and **daughter** against mother,
 and **daughter-in-law** against mother-in-law.”
 
 [Luke 12:53 (ESV)](# "ref")
+
+>>>
++ MIL-DIL rel particularly **complex**!
++ family so **important** to us:
+  + be a **team**, same **side**
+  + us vs the world
++ what does it mean to truly **love** our family?
+  + what if they are walking the way of **death**?
++ will I allow God's holy **fire**
+  + to **purify** my family, and
+  + even to **divide** us?
++ baptism of **HS** + fire:
+
+---
+His **winnowing fork** is in his hand,<br>
+and he will clear his threshing floor
+
+and gather his **wheat** into the barn,<br>
+but the **chaff** he will burn with **unquenchable fire**.
+
+[Matthew 3:12 (ESV)](# "ref")
+
+>>>
++ clear **division** between wheat + chaff
+  + believing vs unbelieving
++ not just attending **church** vs not!
++ can **fool** others
+  + but can't fool **God**!
++ **Malachi**: effect of God's **purifying** fire
+
+---
+But who can **endure** the day of his **coming**,<br>
+and who can **stand** when he **appears**?
+
+For he is like a **refiner's fire**<br>
+and like **fullers' soap**.
+
+[Malachi 3:2 (ESV)](# "ref")
+
+>>>
++ fire: to burn away **dross**, impurity
+  + to **preserve** what has lasting value
++ fuller: launderer, **stomping** with feet
+  + **violent**, but purpose is to **cleanse**
++ why **necessary**?
+  + because we **complain** being faithful is useless:
+
+---
+You have said, ‘It is **vain** to serve God.<br>
+What is the **profit** of our keeping his **charge**<br>
+or of walking as in **mourning**<br>
+before the Lord of hosts?
+
+[15](# "ref")
+And now we call the **arrogant blessed**.<br>
+Evildoers not only **prosper**<br>
+but they put God to the **test** and they **escape**.’
+
+>>>
++ what's the **point** of being **faithful** to God?
++ God's **burden** is heavy on us
++ the **worldly** are carefree and successful
++ do I want my **family** to be miserable?
++ why not just **let** them be happy?
+  + **affirm** them no matter what choices they make
++ But God's refining **fire** is coming:
+
+---
+Then once more you shall see the **distinction**<br>
+between the **righteous** and the **wicked**,
+
+between one who **serves God**<br>
+and one who does **not** serve him.
+
+[Malachi 3:18 (ESV)](# "ref")
+
+>>>
++ the issue is we have **forgotten**
+  + what **righteousness** means
+  + what it truly means to **serve** God
++ e.g., conducting baptism **interview**
++ **worst** disservice we can do to our **young** people
+  + **mislead** them into believing they are saved
+  + just because they grew up in church
++ e.g., JJ not yet saved
+
+---
+<!-- .slide: data-background="white" -->
+# Am I **willing** to let God's fire **divide** my family?
 
 ---
 ## outline
