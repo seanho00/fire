@@ -762,7 +762,8 @@ His **winnowing fork** is in his hand,<br>
 and he will clear his threshing floor
 
 and gather his **wheat** into the barn,<br>
-but the **chaff** he will burn with **unquenchable fire**.
+but the **chaff** he will burn <br>
+with **unquenchable fire**.
 
 [Matthew 3:11-12 (ESV)](# "ref")
 
