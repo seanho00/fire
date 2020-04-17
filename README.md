@@ -1,7 +1,7 @@
 # Fire Upon the Earth
 ## Luke 12:49-59
 
-[![Build status](https://travis-ci.org/sermons/fire.svg)](https://travis-ci.org/sermons/fire)
+[![Build status](https://api.travis-ci.org/sermons/fire.svg)](https://travis-ci.org/github/sermons/fire)
 [![Node deps](https://david-dm.org/sermons/fire.svg)](https://david-dm.org/sermons/fire)
 [![Node devDeps](https://david-dm.org/sermons/fire/dev-status.svg)](https://david-dm.org/sermons/fire?type=dev)
 
