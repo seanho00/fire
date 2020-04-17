@@ -383,7 +383,7 @@ may be **revealed**.
 + division happens even within the same **family**:
 
 ---
-<!-- .slide: <%= bg("bryandilts-grandfather.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-b8rkmfxZjdU-kids.jpg") %> -->
 They will be **divided**,<br>
 **father** against son and **son** against father,
 
@@ -394,7 +394,7 @@ and **daughter** against mother,
 and **daughter-in-law** against mother-in-law.
 
 [Luke 12:53 (ESV)](# "ref")
-[Bryan Dilts](https://pixabay.com/en/grandfather-grandpa-baby-love-1434575/ "caption")
+[Great Smoky Mountains, USA. Jordan Whitt](https://unsplash.com/photos/b8rkmfxZjdU "caption")
 
 >>>
 + MIL-DIL rel particularly **complex**!
